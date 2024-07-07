@@ -13,15 +13,14 @@
      
 <strong>Hi, I am Zhangmingxu!👋 </strong>
 
-<strong>A student in Nankai University majored in computer science. </strong>
+<strong>A undergraduate student in Nankai University majored in computer science.</strong>
 
-<strong>I hope this page can encourage me to achieve my dreams!. </strong>
-
+<strong>I will pursue my Ph.D. degree in HKUST Guangzhou Campus, Information Hub, AI Thrust.</strong>
+      
 <strong>All of the course resources and codes will be uploaded sooner. </strong>
 
 </pre> 
 
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
 ### ⭐️ &nbsp;Github Star
 
@@ -35,7 +34,7 @@
 ![Basic knowledge](https://img.shields.io/badge/-%20Some%20Basic%20Knowledge-orange)
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="mailto:917884894@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-917884894@qq.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:mingxuzhang@mail.nankai.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-917884894@qq.com-blue?style=flat-square&logo=gmail"></a>
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
